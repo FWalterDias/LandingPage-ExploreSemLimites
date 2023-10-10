@@ -8,3 +8,8 @@
     font-size: 62.5%;
     font-family: "Mulish", sans-serif;
 }
+
+.app{
+    max-width: 1440px;
+    margin: 0 auto;
+}
