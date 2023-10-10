@@ -1,0 +1,13 @@
+footer{
+    width: 100%;
+
+    padding: 1.6rem;
+
+    text-align: center;
+    
+    color: #FFFFFF;
+    font-weight: 600; 
+    font-size: 1.9rem;
+
+    background: linear-gradient(96deg, #343193 0%, #302C63 99.68%);
+}
