@@ -1,0 +1,21 @@
+.img-section-1{
+    animation: load-img-header 1s backwards;
+}
+
+.text-header{
+    animation: load-text-header 1s backwards;
+}
+
+@keyframes load-img-header {
+    from{
+        opacity: 0;
+        transform: translateX(80%);
+    } 
+}
+
+@keyframes load-text-header {
+    from{
+        opacity: 0;
+        transform: translateX(-80%);
+    }
+}

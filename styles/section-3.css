@@ -90,26 +90,3 @@
 .bg-form{
     display: none;
 }
-
-@media (min-width: 1200px) {
-    .section-3{
-        flex-direction: row;
-        justify-content: space-between;
-        gap: 9.2rem;
-        padding: 0;
-    }
-    
-    .section-3 form{
-        width: 100%;
-        padding-left: 10.9rem;
-    }
-
-    .section-3 .input-wrapper{
-        width: 100%;
-    }
-
-    .bg-form{
-        display: block;
-    }
-    
-}
